@@ -18,7 +18,7 @@ Imagine I am working under a big production house, — — — . And my manager 
  This project includes steps as follows :
  -
 <p align="center">
-  <img width="900" height="450" src="IMDb photos/IMDb step.png">
+  <img width="900" height="450" src="IMDb photos/IMDb Step_.png">
 </p>
 
  Key Questions Addressed:
