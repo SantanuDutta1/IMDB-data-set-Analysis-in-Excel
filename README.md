@@ -53,7 +53,7 @@ Imagine I am working under a big production house, — — — . And my manager 
 </p>
   5. USA (2944) produce the most number of movies.
  <p align="center">
-  <img width="400" height="200" src="Graphs/Sales vs month.png">
+  <img width="400" height="200" src="IMDb photos/Screenshot 2024-01-31 204503.png">
 </p>
 
 
