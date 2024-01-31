@@ -1,6 +1,4 @@
-#<p align="left">
-  <img width="300" height="200" src="">
-</p> ***IMDb Movie Data Analysis*** 
+ #***IMDb Movie Data Analysis*** 
 
 ***Introduction :***
 -
