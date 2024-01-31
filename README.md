@@ -1,3 +1,4 @@
+<h1 align="center">  <img src="" alt="Spotify" width="55" height="40"/> </a> IMDb Movie Data Analysis <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
  # ***IMDb Movie Data Analysis*** 
 
 ***Introduction :***
