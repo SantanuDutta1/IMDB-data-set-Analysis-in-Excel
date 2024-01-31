@@ -1,10 +1,10 @@
-# IMDb Movie Data Analysis
+# ***IMDb Movie Data Analysis*** 
 
-Introduction :
+***Introduction :***
 -
 Using an IMDb dataset, we dive into the world of movies and TV shows, uncovering trends and insights. From analyzing ratings to exploring genre preferences, our project sheds light on the dynamics of the entertainment industry through data-driven exploration. make intro of my project.
 
-Background :
+***Background :***
 -
 Imagine I am working under a big production house, — — — . And my manager knows nothing but ROI. S/he told me, ‘Santanu I am planning to invest in a new film. Give me a report that will help me in taking decisions on what kind of movies should I invest in so that I have the maximum profit’
 
