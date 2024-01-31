@@ -39,22 +39,34 @@ Imagine I am working under a big production house, — — — . And my manager 
   1. According to the data set we can  show that Action genre had generated the highest revenue with $ 67,59,97,69,950 and Thriller had generated the lowest revenue $ 1,21,539.
 
   2. According to data set China (7.01) has the highest average IMDb score and Canada (6.22) has the lowest average IMDb score.
+  <p align="center">
+  <img width="400" height="200" src="Graphs/Sales vs month.png">
+</p>
 
-  3. Avatar (2009) was the Most profitable movies with 523.51M .
+  4. Avatar (2009) was the Most profitable movies with 523.51M .
+  <p align="center">
+  <img width="400" height="200" src="Graphs/Sales vs month.png">
+</p>
 
-  4. Action gets most like genre.
+  6. Action gets most like genre.
+  <p align="center">
+  <img width="400" height="200" src="Graphs/Sales vs month.png">
+</p>
 
-  5. Top Budget Movies :
+  8. Top Budget Movies :
+  <p align="center">
+  <img width="400" height="200" src="Graphs/Sales vs month.png">
+</p>
 
-  6. Tony kaye (8.6) and Charles Chaplin (8.6) have the highest average ratings.
+  10. Tony kaye (8.6) and Charles Chaplin (8.6) have the highest average ratings.
 
-  7. The ShawShank Redemption (9.3) have the highest IMDb score.
+  11. The ShawShank Redemption (9.3) have the highest IMDb score.
 
-  8. USA (2944) produce the most number of movies.
+  12. USA (2944) produce the most number of movies.
 
-  9. English language produces the most movies.
+  13. English language produces the most movies.
 
-  10. Drama is most commonly produced genre in India.
+  14. Drama is most commonly produced genre in India.
 
 Conclusion:
 -
