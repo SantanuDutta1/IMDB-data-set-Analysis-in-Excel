@@ -10,6 +10,10 @@ Using an IMDb dataset, we dive into the world of movies and TV shows, uncovering
 ***Background :***
 -
 Imagine I am working under a big production house, — — — . And my manager knows nothing but ROI. S/he told me, ‘Santanu I am planning to invest in a new film. Give me a report that will help me in taking decisions on what kind of movies should I invest in so that I have the maximum profit’
+<p align="center">
+  <img width="600" height="350" src="IMDb photos/Graph-Analytics.jpg">
+</p>
+
 
  This project includes steps as follows :
  -
