@@ -1,4 +1,4 @@
-<h1 align="center">  <img src="IMDb photos/IMDB logo.png" width="60" height="30"/> </a>   IMDb Movie Data Analysis <a  target="_blank"> <img src="IMDb photos/png-transparent-microsoft-excel-l"  width="55" height="40"/> </a> </h1>
+<h1 align="center">  <img src="IMDb photos/IMDB logo.png" width="60" height="30"/> </a>   IMDb Movie Data Analysis <a  target="_blank"> <img src="IMDb photos/png-transparent-microsoft-excel-logo-thumbnail.png"  width="55" height="40"/> </a> </h1>
 
 ***Introduction :***
 -
