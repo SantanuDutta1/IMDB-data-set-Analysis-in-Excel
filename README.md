@@ -4,21 +4,21 @@
 -
 Using an IMDb dataset, we dive into the world of movies and TV shows, uncovering trends and insights. From analyzing ratings to exploring genre preferences, our project sheds light on the dynamics of the entertainment industry through data-driven exploration. make intro of my project.
 <p align="center">
-  <img width="600" height="280" src="IMDb photos/images.jpeg">
+  <img width="600" height="350" src="IMDb photos/images.jpeg">
 </p>
 
 ***Background :***
 -
 Imagine I am working under a big production house, — — — . And my manager knows nothing but ROI. S/he told me, ‘Santanu I am planning to invest in a new film. Give me a report that will help me in taking decisions on what kind of movies should I invest in so that I have the maximum profit’
 <p align="center">
-  <img width="600" height="350" src="IMDb photos/Graph-Analytics.jpg">
+  <img width="600" height="320" src="IMDb photos/Graph-Analytics.jpg">
 </p>
 
 
  This project includes steps as follows :
  -
 <p align="center">
-  <img width="600" height="280" src="">
+  <img width="900" height="450" src="IMDb photos/IMDb step.png">
 </p>
 
  Key Questions Addressed:
