@@ -45,7 +45,7 @@ Imagine I am working under a big production house, — — — . And my manager 
 
   4. Avatar (2009) was the Most profitable movies with 523.51M .
   <p align="center">
-  <img width="400" height="200" src="Graphs/Sales vs month.png">
+  <img width="400" height="200" src="IMDb photos/Top Most Profitable movie.png">
 </p>
 
   6. Action gets most like genre.
