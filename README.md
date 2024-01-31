@@ -1,5 +1,4 @@
-<h1 align="center">  <img src="IMDb photos/download (1).jpeg" width="60" height="30"/> </a>   IMDb Movie Data Analysis <a href="https://github.com/mrankitgupta/PythonLessons" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="40"/> </a> </h1>
- # ***IMDb Movie Data Analysis*** 
+<h1 align="center">  <img src="IMDb photos/IMDB logo.png" width="60" height="30"/> </a>   IMDb Movie Data Analysis <a  target="_blank"> <img src="IMDb photos/png-transparent-microsoft-excel-l"  width="55" height="40"/> </a> </h1>
 
 ***Introduction :***
 -
