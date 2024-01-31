@@ -13,6 +13,10 @@ Imagine I am working under a big production house, — — — . And my manager 
 
  This project includes steps as follows :
  -
+ - Understanding the Problem statement
+- Data Cleaning and Preprocessing
+- Explotory data analysis (EDA)
+- Data visualization 
 
  Key Questions Addressed:
  -
