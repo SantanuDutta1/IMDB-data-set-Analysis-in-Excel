@@ -44,7 +44,7 @@ Imagine I am working under a big production house, — — — . And my manager 
 
   3. Top Budget Movies :
   <p align="center">
-  <img width="400" height="200" src="Graphs/Sales vs month.png">
+  <img width="400" height="200" src="IMDb photos/Top budet movie.png">
 </p>
 
   4. The ShawShank Redemption (9.3) have the highest IMDb score.
