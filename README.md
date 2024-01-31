@@ -60,3 +60,10 @@ Imagine I am working under a big production house, — — — . And my manager 
 Conclusion:
 -
 In conclusion, our analysis of the IMDb dataset offers valuable insights for decision-making in the entertainment industry. Action emerges as the most lucrative genre, while China leads in average IMDb scores and the USA dominates in movie production. "Avatar" stands out as the most profitable film, with "The Shawshank Redemption" boasting the highest IMDb score. These findings provide a solid foundation for strategic investment decisions, emphasizing the importance of genre selection, director reputation, and geographic considerations for maximizing ROI in film production.
+
+
+## Authors
+
+- [@Santanudutta1](https://github.com/SantanuDutta1)
+
+Santanu Dutta - Data Analyst - Santanu Data - All work
