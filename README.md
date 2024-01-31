@@ -17,10 +17,9 @@ Imagine I am working under a big production house, — — — . And my manager 
 
  This project includes steps as follows :
  -
- - Understanding the Problem statement
-- Data Cleaning and Preprocessing
-- Explotory data analysis (EDA)
-- Data visualization 
+<p align="center">
+  <img width="600" height="280" src="">
+</p>
 
  Key Questions Addressed:
  -
