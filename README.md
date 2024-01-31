@@ -39,7 +39,7 @@ Imagine I am working under a big production house, — — — . And my manager 
 
   2. Action gets most like genre.
   <p align="center">
-  <img width="400" height="200" src="">
+  <img width="400" height="200" src="IMDb photos/likes.png">
 </p>
 
   3. Top Budget Movies :
